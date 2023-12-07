@@ -9,7 +9,7 @@ def maxArea(A, Len) :
 			area = max(area, min(A[j], A[i]) * (j - i))
 	return area
 
-# Driver code
+# Driver cod
 a = [1,8,6,2,5,4,8,3,7]
 b= [1,1]
 
